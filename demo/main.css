@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #555;
+}
+
+nav {
+  height: 40px; 
+  text-align: right; 
+  max-width: 1310px;
+  margin: 0 auto;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 8px;
+  margin-right: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:last-child {
+  margin-right: 0;
+}
+
+header.home {
+  background-image: url('images/hero.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 45.09803921568627%;  
+  max-width: 2000px;
+  margin: 0 auto;  
+}
+
+.header-text-wrapper {
+  position: absolute;
+  width: 100%;
+}
+
+.header-text {  
+  margin-top: 20%;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.author {
+  text-align: center;
+  font-size: 2em;
+}
+
+.destination-cards {
+  margin: 0 auto;
+  margin-top: 50px;      
+  max-width: 1310px;
+}
+
+.destination-card {
+  margin: 0 10px 10px;                  
+  width: 300px;
+  overflow: hidden;
+  height: 400px;
+  border: 1px #CCC solid;
+  border-radius: 5px;
+  display: inline-block;      
+  background-color: #fff;
+}
+
+.destination-card:hover {
+  transition: 0.4s;
+  transform: scale(1.05);    
+}
+
+.destination-card-image {
+  width: 300px;
+  height: 200px;
+}
+
+.destination-description {
+  padding: 5px;
+}
+
+.destination-description-heading {
+  margin: 0;
+  line-height: 1;
+}
+
+.destination-description-content {
+  font-size: 15px;
+}
+
+/* about-you page */
+
+header.profile {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.profile-pic {
+  width: 300px;  
+}
+
+form {
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 400px;
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+
+textarea {
+  margin-top: 30px;
+  display: block;
+  width: 100%;  
+}
+
+button {
+  margin-top: 30px;
+  width: 100px;
+  height: 30px;
+}

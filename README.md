@@ -8,7 +8,7 @@
   
 ## Agenda 
 1. Accessibility 
-    - Accessible mean that a web site's content is available, and its functionality can be operated, by anyone.
+    - Accessible means that a web site's content is available, and its functionality can be operated, by anyone.
     
     - Types of impairments
       - Visual impairments, no vision and low-vision users (screen readers, braille)

@@ -108,3 +108,4 @@
 3. Re-usable components
     - Polymer -> lit-html (https://lit-html.polymer-project.org/)
     - Web Components (https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+      - see example on branch feature/web-components

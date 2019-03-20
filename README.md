@@ -32,7 +32,7 @@
       - Alt tags for images
       - `<label>` should accompany any field - `<input>`, `<textarea>` and `<select>`. Use the `for` attribute in the `<label>`. 
       - Use appropriate html element with built in accessibility (e.g. `<button>` - they can be tabbed between, and activated using Return/Enter.)      
-      - `≤html>` lang="en"
+      - `<html>` lang="en"
       - Logical tab order / avoid tabindex unless absolutely neccessary
       - Highlight focusable elements with focus - don't override the blue ring so it doesn't appear. 
       - Design
